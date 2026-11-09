@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Nehal Singh!👋
 
-<!--
-**nehalsingh-04/nehalsingh-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at Georgia State University.
+Interested in Software Development, APIs, and Technology.
 
-Here are some ideas to get you started:
+Technical Skills
+- Languages: Python, C, C#, (learning Java)
+- Databases: SQL
+- Tools: Visual Studio Code, Swagger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience
+- Software Development Intern at CoreCard (Euronet)
+- Experience with API development, testing, debugging and SQL databases.
+
+Organization
+- Women in Tech (Member)
+
+- 🔭 Currently working on improving my programming skills and exploring software development projects.
+- 🌱 Currently learning Data Structures in Python and starting to learn Java.
+- 👯 Looking to collaborate on beginner friendly projects and hackathons.- ⚡ Fun fact: I love exploring different cultures and hope to visit Rome, Italy!
